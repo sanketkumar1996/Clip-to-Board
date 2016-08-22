@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Refresh"
+        android:id="@+id/refresh"
+          />
+    <item
+        android:title="Clear"
+        android:id="@+id/clear"
+        />
+    <item
+        android:title="Clear All"
+        android:id="@+id/clearAll"/>
+
+</menu>
